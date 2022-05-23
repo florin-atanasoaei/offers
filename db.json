@@ -1,47 +1,8 @@
 {
   "data": [
     {
-      "name": "Massagefdsfs",
-      "description": "dfasfsa",
-      "reactionTime": "1",
-      "timeInHours": "1",
-      "timeInMinutes": "1",
-      "timeStartAfterXMin": "1",
-      "numberOfVisitors": "1",
-      "activityCategories": [
-        "1",
-        "2",
-        "3"
-      ],
-      "priceCategories": [
-        {
-          "category": "Full",
-          "price": "20"
-        },
-        {
-          "category": "Partial",
-          "price": "10"
-        },
-        {
-          "category": "dsfsf",
-          "price": "2"
-        }
-      ],
-      "vatNumber": "77%",
-      "closingBookingTime": "fdsf",
-      "minNumberOfTicketsToBook": "sdfsfs",
-      "preparationTime": "",
-      "cleanUpTime": "",
-      "address": "fdsfdsf",
-      "assignedEmployees": [
-        "3",
-        "2"
-      ],
-      "id": 1
-    },
-    {
       "name": "Haircut",
-      "description": "With chainsaw",
+      "description": "Test",
       "reactionTime": "-1",
       "timeInHours": "2",
       "timeInMinutes": "30",
